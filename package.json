@@ -1,0 +1,14 @@
+{
+  "name": "crafts_by_faith",
+  "version": "0.0.1",
+  "description": "A cool shop for cute things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isacvale",
+  "license": "ISC",
+  "dependencies": {
+    "celo": "^1.1.5"
+  }
+}
