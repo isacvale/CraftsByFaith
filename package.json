@@ -9,6 +9,8 @@
   "author": "isacvale",
   "license": "ISC",
   "dependencies": {
-    "celo": "^1.1.5"
+    "celo": "^1.1.5",
+    "lodash": "^4.17.20",
+    "lodash-es": "^4.17.20"
   }
 }
